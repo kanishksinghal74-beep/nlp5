@@ -16,11 +16,11 @@ class TextInput(BaseModel):
     text: str
 
 # Home endpoint
-from fastapi.responses import RedirectResponse
-
 @app.get("/")
 def home():
-    return RedirectResponse(url="/gradio/")
+    return {
+        "message": "Sentiment Analysis API is working!"
+    }
 
 # Sentiment API endpoint
 @app.post("/sentiment")
