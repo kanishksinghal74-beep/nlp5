@@ -19,7 +19,7 @@ The project provides:
 
 **Public frontend:**
 
-https://sentiment-analysis-api-production-1b68.up.railway.app/gradio
+https://nlp5.onrender.com
 
 This is the link to share when someone wants to use the application through the graphical interface.
 
@@ -27,13 +27,13 @@ This is the link to share when someone wants to use the application through the 
 
 **Interactive API documentation:**
 
-https://sentiment-analysis-api-production-1b68.up.railway.app/docs
+https://nlp5.onrender.com/docs
 
 This allows users/teachers/developers to test the API endpoints directly from their browser.
 
 ## 🔗 API Root
 
-https://sentiment-analysis-api-production-1b68.up.railway.app/
+https://nlp5.onrender.com/
 
 Expected response:
 
